@@ -1,4 +1,4 @@
 # program1
 My first GIT program
 <br>
-Author-Harshita Bamniya
+Author-Harshita Bamniya(cse)
